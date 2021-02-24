@@ -1,1 +1,3 @@
-# Project3_CE888
+### Project3_CE888
+
+Assignment 1
